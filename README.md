@@ -17,5 +17,3 @@ day: The day of the week when the transaction occurred (e.g., Sun, Sat, T 6. u, 
 time: The time of day when the transaction occurred, typically categorized as Lunc 7. or Dinner.
 
 size: The size of the party or grou of customers.
-
-# Standard imports
